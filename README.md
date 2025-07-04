@@ -2,13 +2,13 @@ Kalkulator prosty
 
 Projekt kalkulatora w Node.js
 
-#Fukcje
+Funkcje:
 - Dodawanie
 - Odejmowanie
 - Mnożenie
 - Dzielenie
 
-#Uruchomienie
+Uruchomienie:
 node calculator.js
 
 
