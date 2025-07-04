@@ -8,7 +8,11 @@ Funkcje:
 - Mnożenie
 - Dzielenie
 
-Uruchomienie:
-node calculator.js
+Przykładowe uruchomienie programu:
+node
+const calc = require('./calculator.js');
+calc.add(2, 3)
+process.exit()
+
 
 
